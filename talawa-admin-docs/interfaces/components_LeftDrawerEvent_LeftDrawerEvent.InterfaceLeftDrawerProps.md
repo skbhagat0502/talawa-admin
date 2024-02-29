@@ -30,7 +30,7 @@
 
 #### Defined in
 
-[src/components/LeftDrawerEvent/LeftDrawerEvent.tsx:17](https://github.com/PalisadoesFoundation/talawa-admin/blob/12d9229/src/components/LeftDrawerEvent/LeftDrawerEvent.tsx#L17)
+[src/components/LeftDrawerEvent/LeftDrawerEvent.tsx:18](https://github.com/skbhagat0502/talawa-admin/blob/eb9b2df/src/components/LeftDrawerEvent/LeftDrawerEvent.tsx#L18)
 
 ___
 
@@ -40,7 +40,7 @@ ___
 
 #### Defined in
 
-[src/components/LeftDrawerEvent/LeftDrawerEvent.tsx:25](https://github.com/PalisadoesFoundation/talawa-admin/blob/12d9229/src/components/LeftDrawerEvent/LeftDrawerEvent.tsx#L25)
+[src/components/LeftDrawerEvent/LeftDrawerEvent.tsx:26](https://github.com/skbhagat0502/talawa-admin/blob/eb9b2df/src/components/LeftDrawerEvent/LeftDrawerEvent.tsx#L26)
 
 ___
 
@@ -50,4 +50,4 @@ ___
 
 #### Defined in
 
-[src/components/LeftDrawerEvent/LeftDrawerEvent.tsx:26](https://github.com/PalisadoesFoundation/talawa-admin/blob/12d9229/src/components/LeftDrawerEvent/LeftDrawerEvent.tsx#L26)
+[src/components/LeftDrawerEvent/LeftDrawerEvent.tsx:27](https://github.com/skbhagat0502/talawa-admin/blob/eb9b2df/src/components/LeftDrawerEvent/LeftDrawerEvent.tsx#L27)

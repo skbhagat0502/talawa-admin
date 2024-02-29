@@ -26,4 +26,4 @@
 
 #### Defined in
 
-[src/components/UserPortal/ChatRoom/ChatRoom.tsx:14](https://github.com/PalisadoesFoundation/talawa-admin/blob/12d9229/src/components/UserPortal/ChatRoom/ChatRoom.tsx#L14)
+[src/components/UserPortal/ChatRoom/ChatRoom.tsx:14](https://github.com/skbhagat0502/talawa-admin/blob/eb9b2df/src/components/UserPortal/ChatRoom/ChatRoom.tsx#L14)
